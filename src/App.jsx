@@ -1304,5 +1304,3 @@ const professionalCSS = `
   }
 `
 
-//lol
-//hate this css but it was fun to make and it looks nice ngl
